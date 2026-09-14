@@ -1,6 +1,6 @@
 Package: iModMixData
 Title: Data for iModMix Package
-Version: 1.3.0
+Version: 1.3.1
 Authors@R: c(
     person(given = "Isis",
            family = "Narvaez-Bandera",
@@ -23,3 +23,4 @@ Suggests: knitr,
           testthat
 Config/testthat/edition: 3
 VignetteBuilder: knitr
+PackageStatus: Deprecated
